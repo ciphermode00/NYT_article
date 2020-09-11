@@ -89,6 +89,8 @@ main h1 {
 
 .article iframe {
     margin-left: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .moreArticles img {
